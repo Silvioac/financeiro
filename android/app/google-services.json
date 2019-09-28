@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294833340311",
+    "firebase_url": "https://gestoginanceiro.firebaseio.com",
+    "project_id": "gestoginanceiro",
+    "storage_bucket": "gestoginanceiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294833340311:android:4122d989ab593a3cac0ed2",
+        "android_client_info": {
+          "package_name": "com.example.financeiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294833340311-1fniuf20182pbu2cgaj5ha2i43ilo9rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.financeiro",
+            "certificate_hash": "75e9158e1b43e8763543c97808fdd2c4e1d133ec"
+          }
+        },
+        {
+          "client_id": "294833340311-qbdiejaphmc87d2a7f7s7ag0v4cd86ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3MV88WjhSs_VXzJ-pFJs4qIl8M0QxWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294833340311-qbdiejaphmc87d2a7f7s7ag0v4cd86ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
